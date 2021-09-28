@@ -1,5 +1,5 @@
 # win11-lab-kit
-Windows 11 Lab Kit (compatible with Windows 10) helps disable Windows Updates Auto Update (WUAU), disables firewall, disables real time monitoring, disables samples submits and installs the Chocolatey package manager for Windows, along with any applications you want automatically installed to your lab -- **running just a single command!**
+Windows 11 Lab Kit (compatible with Windows 10) helps disable Windows Updates Auto Update (WUAU), disables firewall, disables real time monitoring, disables samples submits and installs the Chocolatey package manager for Windows, along with any applications you want automatically installed in your Windows 11 lab -- **running just a single command!**
 
 ## Installation
 1. Right click and Edit in Notepad initiate.sh
