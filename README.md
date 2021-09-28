@@ -6,6 +6,6 @@ Windows 11 Lab Kit (compatible with Windows 10) helps disable Windows Updates Au
 2. Add/Edit the Chocolatey app installations (lines 17 to 23). Please go to https://community.chocolatey.org/packages to get the 'choco install' command for each app you would like installed.
 3. Save and Close.
 4. Right click on Windows Terminal (or Power Shell for Windows 10) and Run as Administrator
-5. Navigate to the folder containing initiate.bat
+5. Navigate to the folder containing initiate.bat (**cd C:\path\to\initiate.bat**)
 6. Run **powershell initiate.bat**
 7. Sit back and watch the magic happen.
